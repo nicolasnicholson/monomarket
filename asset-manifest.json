@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monomarket/static/css/main.bf915ae7.css",
+    "main.js": "/monomarket/static/js/main.940303ab.js",
+    "index.html": "/monomarket/index.html",
+    "main.bf915ae7.css.map": "/monomarket/static/css/main.bf915ae7.css.map",
+    "main.940303ab.js.map": "/monomarket/static/js/main.940303ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf915ae7.css",
+    "static/js/main.940303ab.js"
+  ]
+}
